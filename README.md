@@ -5,6 +5,7 @@ Project Overview 🎉
 We, a team of 4 friends, collaborated to create a comprehensive sales analysis dashboard for Blinkit using Power BI 📈. Our project provides valuable insights into sales trends, patterns, and performance metrics, enabling data-driven decisions 📊.
 
 Dashboard Features 🌟
+![WhatsApp Image 2024-09-11 at 20 49 46_be39adc2](https://github.com/user-attachments/assets/0a1b8310-49f6-463e-8bb2-5c8fa38b1c53)
 
 - Sales Overview: Visualize total sales, revenue, and profit margins 📈
 - Regional Analysis: Explore sales performance across different regions 🗺
